@@ -1,4 +1,4 @@
-package com.stackroute.javakeywords;
+package com.stackroute.javakeywords.loops;
 
 import java.util.Scanner;
 

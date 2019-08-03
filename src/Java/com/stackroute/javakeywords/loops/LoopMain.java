@@ -1,4 +1,6 @@
-package com.stackroute.javakeywords;
+package com.stackroute.javakeywords.loops;
+
+import com.stackroute.javakeywords.loops.LoopExample;
 
 public class LoopMain
 {
